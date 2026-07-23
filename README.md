@@ -59,7 +59,7 @@ Route optimization powered by machine learning and AI. A professional solution t
 <tr>
 <td>
 
-**Supreme Buildit**
+**[Supreme Buildit](https://supreme-year2-1.vercel.app/)**
 <br>Website Maintenance
 
 </td>
@@ -72,7 +72,7 @@ During my time at Active Media, I was responsible for maintaining the Supreme we
 <tr>
 <td>
 
-**The Active Church**
+**[The Active Church](https://teams.theactivechurch.org/login)**
 <br>Church Management Platform
 
 </td>
@@ -85,13 +85,65 @@ Active Teams is a church management and administration platform built to streaml
 <tr>
 <td>
 
-**Jordao High School**
-<br>Content & Digital Presence
+**[Infostructure](https://infostructure-frontend-l22v.vercel.app/)**
+<br>Full-Stack eCommerce
 
 </td>
 <td>
 
-Alongside client development work, I created and posted content for Jordao College to boost its online recognition and engagement — managing content updates, ensuring accuracy, and helping build the school's digital presence. This sharpened my skills in digital content management, social media posting, and communicating an organization's message to the public.
+Built after completing a course on full-stack development and cloud infrastructure — a complete eCommerce site with the frontend hosted on AWS S3, a Node.js backend on EC2, and GitHub Actions (YAML) for CI/CD. Built with React and Vite, this project took me through the entire pipeline from development to deployment and strengthened my confidence in real-world web development.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[3C Teams (copy)](https://new-pastorpro.vercel.app/)**
+<br>HTML/CSS Practice Build
+
+</td>
+<td>
+
+A duplicate of the PastorPro website, built as one of my first projects using HTML and CSS. The goal was to practice structuring pages, styling elements, and translating a real-world design into code. The original site has since been updated, but this project remains part of my early learning journey and helped build a solid foundation in frontend development.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Flight Book](https://photo-template-beta.vercel.app/)**
+<br>Flight Booking UI
+
+</td>
+<td>
+
+A basic flight booking web application built with HTML and CSS — one of my first personal projects. It let users view available flights and select travel options through a simple, user-friendly interface. Basic in functionality, but it helped me understand web structure, layout design, and the fundamentals of building interactive pages.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Authentique Cafe](https://authentique-cafe20.vercel.app/)**
+<br>Café Website
+
+</td>
+<td>
+
+Built during my internship as a challenge to create a café website using HTML and CSS — my first project of this kind. It taught me the basics of structuring pages, styling elements, and creating a responsive layout, and gave me confidence in frontend development.
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[Candy Crush](https://candy-crush2-0-3lg3.vercel.app/)**
+<br>React Game
+
+</td>
+<td>
+
+A Candy Crush–style game built with React and Vite — completely new territory, and the first game I'd ever made. The project pushed me to think differently about state management, component logic, and user interaction, and showed me how stepping out of my comfort zone accelerates learning.
 
 </td>
 </tr>
@@ -146,8 +198,11 @@ Alongside client development work, I created and posted content for Jordao Colle
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add these when ready:
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/keren-botombe-b356353a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<!-- Add this when ready:
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
 -->
 

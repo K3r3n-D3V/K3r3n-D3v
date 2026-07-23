@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=1&section=header"/>
 
-## 🧭 About Me
+## About Me
 
 I'm a Python developer based in South Africa 🇿🇦, building toward a career as a Full-Stack Software Engineer. I've worked on real client projects — route optimization tools, church management platforms, and small business websites — while deepening my skills in FastAPI, React, and MongoDB.
 
@@ -30,7 +30,7 @@ class Keren:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -40,7 +40,7 @@ class Keren:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"/>
 
-## 💼 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -151,12 +151,12 @@ A Candy Crush–style game built with React and Vite — completely new territor
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=K3r3n-D3V&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3r3n-D3V&layout=compact&theme=radical&hide_border=true"/>
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=K3r3n-D3V&show_icons=true&theme=radical&hide_border=true"/> -->
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3r3n-D3V&layout=compact&theme=radical&hide_border=true"/> -->
 
 <img src="https://streak-stats.demolab.com?user=K3r3n-D3V&theme=radical&hide_border=true"/>
 
@@ -166,7 +166,7 @@ A Candy Crush–style game built with React and Vite — completely new territor
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -176,11 +176,9 @@ A Candy Crush–style game built with React and Vite — completely new territor
 
 </div>
 
-> ⚠️ This animated snake needs a one-time setup — see `SNAKE_SETUP.md` for the 2-minute steps.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"/>
 
-## 🎯 Current Goals
+## Current Goals
 
 - 🌱 Deepen Python & FastAPI expertise
 - 🎨 Build production-ready React applications
@@ -190,7 +188,7 @@ A Candy Crush–style game built with React and Vite — completely new territor
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"/>
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -202,9 +200,8 @@ A Candy Crush–style game built with React and Vite — completely new territor
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<!-- Add this when ready:
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
--->
+
+<a href="mailto:kerenbotombe125@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
 
 </div>
 
